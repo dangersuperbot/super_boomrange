@@ -26,19 +26,19 @@ end
 if msg.text == "fuck" then
 	return "you ! _|_"
 end
-if msg.text == "CryTek" then
+if msg.text == "boomrange" then
 	return "جانم؟"
 end
-if msg.text == "crytek" then
+if msg.text == "bomrange" then
 	return "جانم؟"
 end
-if msg.text == "Zeus" then
-	return "با بابام کاری داری؟ 😎 تو @CryTek_botبهم بگو بهش میگم 🤗"
+if msg.text == "danger" then
+	return "با بابام کاری داری؟ 😎 تو @xXDangerXxبهم بگو بهش میگم 🤗"
 end
-if msg.text == "zeus" then
-	return "با بابام کاری داری؟ 😎 تو @CryTek_botبهم بگو بهش میگم 🤗🤗"
+if msg.text == "senator" then
+	return "با بابام کاری داری؟ 😎 تو @senator_blackkهم بگو بهش میگم 🤗🤗"
 end
-if msg.text == "کرایتک" then
+if msg.text == "بومرنگ" then
 	return "کاری داشتی؟"
 end
 if msg.text == "bot" then
@@ -83,10 +83,10 @@ return {
 		"^بای$",
 		"^خداحافظ$",
 		"^?$",
-		"^تیاگو$",
-		"^[Tt]iago$",
-		"^[Jj]an123$",
-		"^جان123$",
+		"^boomrange$",
+		"^[Bb]omrange$",
+		"^[Dd]anger$",
+		"^senator$",
 		"^[Ss]alam$",
 		"^بات$",
 		"^ربات$",
