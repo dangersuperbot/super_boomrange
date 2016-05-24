@@ -1,11 +1,3 @@
---------------------------------------------------
---                                              --
---------------------------------------------------
---                                              --
---Developers: @Josepdal & @MaSkAoS @kingjan123  --
---     Support: @mohammad_zaq     --
---                                              --
---------------------------------------------------
 function run(msg, matches)
   if matches[1] == 'help' then
   return lang_text(msg.to.id, 'thelp')
