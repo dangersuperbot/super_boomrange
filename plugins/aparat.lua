@@ -1,12 +1,3 @@
---[[
-
-#
-#     @GPMOD
-#   @Dragon_Born
-#      
-
-]]
-
 local function run(msg, matches)
 	if matches[1]:lower() == 'aparat' then
 		local url = http.request('http://www.aparat.com/etc/api/videoBySearch/text/'..URL.escape(matches[2]))
