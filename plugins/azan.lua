@@ -1,11 +1,3 @@
---[[
-
-#
-#     @GPMOD
-#   @Dragon_Born
-#      
-
-]]
 do
 function run_bash(str)
     local cmd = io.popen(str)
