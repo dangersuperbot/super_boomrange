@@ -35,6 +35,3 @@ return {
 }
 
 end
-
---tnx alireza_pt
---ch @NotronX_Ch
