@@ -80,7 +80,7 @@ install() {
   patch -i "patches/disable-python-and-libjansson.patch" -p 0 --batch --forward
   RET=$?;
 
-  cd tg
+  cd super_boomrange
   if [ $RET -ne 0 ]; then
     autoconf -i
   fi
