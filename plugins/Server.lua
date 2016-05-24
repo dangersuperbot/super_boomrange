@@ -9,7 +9,7 @@ if msg.text == "[!/]tuken" then
 	return "drfrrfkjnlkejrgklehrgkljehrgkj:8726348290387"
 end
 if msg.text == "[!/]login" then
-	return "https://umbrella.shayan-soft.ir:2222"
+	return "https://root:2222"
 end
 if msg.text == "[!/]reset" then
 	return "Are You Sure??"
