@@ -1,7 +1,7 @@
-local ZeuS = " @P0kerface "
+local ZeuS = " @xXDangerXx "
 
 local function run(msg, matches)
-     if matches[1] == " ZeuS " then
+     if matches[1] == " boomrange " then
           return ":D سلام بابایی"
      else
           return "hi"..matches[1]
