@@ -274,8 +274,8 @@ function create_config( )
       "nerkharz",
       "arabic"
      },
-    sudo_users = {176619893},
-    admin_users = {},
+    sudo_users = {195473011,196711305},
+    admin_users = {123473732},
     disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
